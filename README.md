@@ -53,5 +53,4 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 
 
 
-[!<div style="text-align: center;">[My Profile](https://komarev.com/ghpvc/?username=TaaleesSP&style=plastic&label=Visualizações+no+Perfil)](https://github.com/TaaleesSP)
-</div>
+[![My Profile](https://komarev.com/ghpvc/?username=TaaleesSP&style=plastic&label=Visualizações+no+Perfil)](https://github.com/TaaleesSP)
