@@ -17,7 +17,7 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 * 🚀 Meu Objetivo no futuro e me tornar um **Cibersegurança/Desenvolvedor**.
 * 🎓 Estou cursando **Ciência da Computação pela UFMT - Universidade Federal de Mato Grosso**.
 * 💬 Me pergunte sobre **Hardware**.
-* 🔍 Veja meu Linkedin do [**Tales Oliveira**](https://www.linkedin.com/in/talesoliveira57/)!
+* 🔍 Veja meu Linkedin [**Tales Oliveira**](https://www.linkedin.com/in/talesoliveira57/)!
 
 <br>
 
