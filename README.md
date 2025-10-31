@@ -13,7 +13,7 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-* 🌱 Atualmente estou estudando **Java**.
+* 🌱 Atualmente estou estudando **AZ-900 - Microsoft**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Especialista em Cibersegurança**.
 * 🎓 Estou cursando **Ciência da Computação** na **UFMT - Universidade Federal de Mato Grosso**.
 * 💬 Me pergunte sobre **Tecnologia**.
