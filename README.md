@@ -13,7 +13,7 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
-* 🌱 Atualmente estou estudando **AZ-900 - Microsoft**.
+* 🌱 Atualmente estou estudando **CompTIA Security+**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Especialista em Cibersegurança**.
 * 🎓 Estou cursando **Ciência da Computação** na **UFMT - Universidade Federal de Mato Grosso**.
 * 💬 Me pergunte sobre **Tecnologia**.
@@ -48,7 +48,7 @@ Estou comprometido em impulsionar o sucesso organizacional através da aplicaç�
 <summary><b>Cloud ☁️</b></summary>
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
 </details>
 
 <details open>
