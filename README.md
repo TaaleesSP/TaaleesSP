@@ -11,7 +11,7 @@ Sou um Profissional de T.I com um sólido background de 12 anos de Experiência.
 Estou comprometido em impulsionar o sucesso organizacional através da aplicação estratégica da tecnologia. Atualmente, estou dedicado aos estudos como graduando em Ciência da Computação na Universidade Federal de Mato Grosso.
 
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Ffree-animations%2Fnotebook&psig=AOvVaw0FgZ1Xa5xd-HShaFrIAgOE&ust=1764124264640000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODTiJShjJEDFQAAAAAdAAAAABBN" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://assets-v2.lottiefiles.com/a/0b060d68-02b8-11ef-8bea-f339f93d2c88/dCRNsH0l4c.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
 
 * 🌱 Atualmente estou estudando **CompTIA Security+**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Especialista em Cibersegurança**.
