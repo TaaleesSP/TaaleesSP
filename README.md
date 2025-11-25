@@ -11,7 +11,7 @@ Sou um Profissional de T.I com um sólido background de 12 anos de Experiência.
 Estou comprometido em impulsionar o sucesso organizacional através da aplicação estratégica da tecnologia. Atualmente, estou dedicado aos estudos como graduando em Ciência da Computação na Universidade Federal de Mato Grosso.
 
 
-<img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://media.tenor.com/uPKBSSYU8BcAAAAj/computer-pixel.gif" alt="ilustração de um computador" min-width="250px" max-width="250px" width="250px" align="right">
 
 * 🌱 Atualmente estou estudando **CompTIA Security+**.
 * 🚀 Meu Objetivo no futuro e me tornar um **Especialista em Cibersegurança**.
